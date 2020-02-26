@@ -86,3 +86,5 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+**Note: The assets in this repository were stewarded by OSEHRA and transferred to Logica on February 14th, 2020 upon OSEHRA's permanent closure. While the work remains available as Open Source for continued community use, copyright and licensing statements may not have been updated to reflect this transfer.**
